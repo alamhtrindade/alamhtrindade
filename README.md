@@ -1,12 +1,5 @@
-# 👋 Hello! 
-Welcome to my Github profile.
-## My name is Alam
-
-
-
-
 <div align="left">
-<img src="https://user-images.githubusercontent.com/47890311/212898165-089d0a61-42f9-4cc6-b8d4-835577024fcf.png" width="150px" />
+<img src="https://user-images.githubusercontent.com/47890311/212902769-e27b79fd-e79b-4494-b33d-669de6dc7ae2.png" width="850px" />
 </div>
 
 <br><br>
